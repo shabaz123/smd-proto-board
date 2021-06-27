@@ -11,7 +11,15 @@ There is also a set of files for a larger 2-layer printed circuit board (PCB) co
 
 To order, select the relevant zip file from this repository, and upload it to a PCB factory website (e.g. jlcpcb.com). The website will automatically detect the zip file content and handle it accordingly.
 
-Here is an example upload using the export-soic-only.zip file:
+Here is an example upload using the export-soic-only.zip file. In this example, it can be seen that 20 boards can be manufactured for $5.50, which is very cost-effective:
 
 <img src="soic-example.jpg" width="320" style="float:left">
+
+This is what the boards look like:
+
+<img src="smd-boards.jpg" width="320" style="float:left">
+
+The photo below shows example usage:
+
+<img src="smd-board-usage.jpg" width="320" style="float:left">
 
