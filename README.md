@@ -5,7 +5,11 @@ SOIC
 TSSOP
 SOT23 / SOT23-5 / SOT23-6
 
-There is also a set of files for a larger 2-layer printed circuit board (PCB) containing multiple SMD designs. Note that there are no grooves/scored lines or mouse-bites; the individual adapter boards will need to be cut to be separated. Cutting will cause dust! Therefore the individual boards are better, and the cost is not much to get the individual boards made. However, for the ultimate low cost, provided you are prepared to cut the boards yourself (for example with a hobby-grade table saw) then the larger board is an option.
+There are two options:
+
+(1) [Not recommended] A single board containing various SOIC/TSSOP/SOT23 packages. It is not recommended because there are no grooves/scored lines or mouse-bites; the individual adapter boards will need to be cut to be separated. Cutting will cause dust!
+
+(2) [Recommended!] Individual Gerber files per SMD footprint. The cost is not much to get the individual boards made. 
 
 <img src="protoboards.jpg" width="320" style="float:left">
 
@@ -22,4 +26,8 @@ This is what the boards look like:
 The photo below shows example usage:
 
 <img src="smd-board-usage.jpg" width="320" style="float:left">
+
+The export_qfn24_l_3_3_0_4mm_gerbers_rev1.zip file contains a layout intended for a specific QFN chip, it is not a standard part. It is suitable for Renesas SLG47004 (GreenPAK) and SLG47910 (FPGA) devices.
+<img src="qfn24_l-3_3_0_4mm_render.jpg" width="320" style="float:left">
+
 
