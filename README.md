@@ -1,5 +1,7 @@
 # smd-proto-board
 
+License: The files in this repository are for non-commercial use only. They are free to use for educational use and home use, but are not licensed for sale or for any business or commercial use.
+
 This repository contains PCB files (also known as Gerber files) for surface mount device (SMD) breakout boards. There are individual sets of files for the following SMD types:
 SOIC
 TSSOP
