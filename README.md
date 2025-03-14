@@ -30,4 +30,11 @@ The photo below shows example usage:
 The export_qfn24_l_3_3_0_4mm_gerbers_rev1.zip file contains a layout intended for a specific QFN chip, it is not a standard part. It is suitable for Renesas SLG47004 (GreenPAK) and SLG47910 (FPGA) devices.
 <img src="qfn24_l-3_3_0_4mm_render.jpg" width="320" style="float:left">
 
+Note: There's also a non-SMD prototyping board, which might be handy. It is the file called export-gerbers-three-way-protoboard-rev1.zip
+
+The render below shows what it looks like. Try it, you might like it!
+
+<img src="three-way-proto-render.jpg" width="320" style="float:left">
+
+
 
