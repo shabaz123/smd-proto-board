@@ -33,6 +33,9 @@ The export_qfn24_l_3_3_0_4mm_gerbers_rev1.zip file contains a layout intended fo
 
 <img src="qfn24_l-3_3_0_4mm_render.jpg" width="480" style="float:left">
 
+The export-vssop-0-5-breakout-gerbers-rev1.zip file contains a layout for 0.5 mm pitch VSSOP-style parts of up to 28 pins.
+<img src="vssop-breakout-render.jpg" width="480" style="float:left">
+
 Note: There's also a non-SMD prototyping board, which might be handy. It is the file called export-gerbers-three-way-protoboard-rev1.zip
 
 The render below shows what it looks like. Try it, you might like it!
